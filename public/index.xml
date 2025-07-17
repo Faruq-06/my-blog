@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RT-MHBF Blogs</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on RT-MHBF Blogs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastering Git and GitHub on AWS Linux</title>
+      <link>http://localhost:1313/posts/git-guide/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/git-guide/</guid>
+      <description>&lt;h1 id=&#34;mastering-git-and-github-on-aws-linux&#34;&gt;Mastering Git and GitHub on AWS Linux&lt;/h1&gt;&#xA;&lt;p&gt;A complete guide to setting up Git on an AWS Linux instance, managing repositories, and mastering essential Git commands.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-introduction&#34;&gt;&lt;strong&gt;1. Introduction&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Version control systems like &lt;strong&gt;Git&lt;/strong&gt; are essential for collaborative development. GitHub and GitLab are popular platforms that host Git repositories, making it easy to manage and share code.&lt;/p&gt;&#xA;&lt;p&gt;In this blog, you’ll learn:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;How to install &lt;strong&gt;Git&lt;/strong&gt; on an AWS Linux instance&lt;/li&gt;&#xA;&lt;li&gt;How to create and push a repository to GitHub&lt;/li&gt;&#xA;&lt;li&gt;How to work with multiple servers and branches&lt;/li&gt;&#xA;&lt;li&gt;Useful Git commands for developers&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;2-prerequisites&#34;&gt;&lt;strong&gt;2. Prerequisites&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;AWS Free Tier Account&lt;/li&gt;&#xA;&lt;li&gt;Basic Linux Command Line knowledge&lt;/li&gt;&#xA;&lt;li&gt;GitHub Account&lt;/li&gt;&#xA;&lt;li&gt;Git Personal Access Token (PAT)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;3-setting-up-aws-linux-instance&#34;&gt;&lt;strong&gt;3. Setting Up AWS Linux Instance&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Create an AWS account and log in to the &lt;strong&gt;AWS Management Console&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Launch a new &lt;strong&gt;EC2 Linux instance&lt;/strong&gt; (choose Amazon Linux 2 AMI).&lt;/li&gt;&#xA;&lt;li&gt;Select the nearest region (e.g., Mumbai).&lt;/li&gt;&#xA;&lt;li&gt;Download the &lt;strong&gt;.pem key&lt;/strong&gt; file after creating the instance.&lt;/li&gt;&#xA;&lt;li&gt;Copy the public IP of the instance.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;4-connecting-to-aws-linux-via-ssh&#34;&gt;&lt;strong&gt;4. Connecting to AWS Linux via SSH&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Open your terminal and run:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
